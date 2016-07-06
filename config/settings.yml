@@ -1,0 +1,6 @@
+request_statuses:
+  "1": "pending"
+  "2": "fixed"
+  "3": "denied"
+
+status: 123

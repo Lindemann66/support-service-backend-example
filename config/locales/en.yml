@@ -1,0 +1,10 @@
+en:
+  api:
+    errors:
+      BaseException: Cannot perform
+      Forbidden: You don't have permission to access this page
+      IncorrectEmailOrPassword: Incorrect email or password
+      Incomplete: Some request perameters is missing
+      NotFound: Resource not found
+      FieldValueAlreadyExists: Some data with these parameters already exists
+      FieldWrongFormat: Wrong parameters format
